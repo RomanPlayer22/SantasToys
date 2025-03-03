@@ -1,0 +1,12 @@
+{
+    "item.santastoys.match": "Zápalka",
+    "item.santastoys.ender_blaster": "Endová pistole",
+    "item.santastoys.nether_star_blaster": "Netherová pistole",
+  
+    "block.santastoys.heavy_light": "Těžké světlo",
+    "block.santastoys.liquid_sensor": "Kapalinový senzor",
+  
+    "santastoys.subtitle.blaster_shot": "střela z pistole",
+  
+    "itemGroup.santastoys": "Santa's Toys"
+  }
